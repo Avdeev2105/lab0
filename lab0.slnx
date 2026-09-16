@@ -1,0 +1,13 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/Элементы решения/">
+    <File Path="readme.txt" />
+  </Folder>
+  <Project Path="../lab1/lab1.vcxproj" Id="44427405-c5f0-4977-93eb-4f3719045c89" />
+  <Project Path="../lab2/lab2.vcxproj" Id="c2c97651-9b40-44cd-ad0c-d8c0e1435253" />
+  <Project Path="../lab3/lab3.vcxproj" Id="5a281fc4-fbf2-4b55-89b9-af343fb288bb" />
+  <Project Path="lab0.vcxproj" Id="882c1b42-65e2-47cd-a7ec-2f9759c17967" />
+</Solution>
